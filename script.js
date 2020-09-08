@@ -1,7 +1,7 @@
 
 // Data URL
-url = 'global-temperature.json'
-//url = "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json"
+//url = 'global-temperature.json'
+url = "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json"
 
 // Fetch Data
 fetch(url)
